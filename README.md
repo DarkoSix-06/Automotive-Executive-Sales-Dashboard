@@ -50,7 +50,7 @@ Trend Lines: Monthly sales seasonality tracking.
 Clone the repository:
 
 Bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone (https://github.com/Nimesh-Tharaka/Automotive-Executive-Sales-Dashboard).git)
 Setup Data:
 
 Open Raw_Car_Dashboard.pbix in Power BI Desktop.
